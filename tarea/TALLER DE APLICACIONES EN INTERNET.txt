@@ -1,0 +1,6 @@
+ METODOLOGIAS TRADICIONALES
+ -Waterfall o Cascada
+ -Incremental 
+ -Evolutivo 
+ -Espiral 
+ -Prototipos
